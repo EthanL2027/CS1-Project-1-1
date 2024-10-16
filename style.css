@@ -1,1 +1,35 @@
 
+/* General page styles */
+body{
+    background-color: rgba(38, 35, 35, 0.078);
+}
+.brown{
+    border: 2px solid rgb(148, 66, 7);
+    border-radius:20px;
+    margin:5%;
+    padding:5px; 
+    border-style:double;
+    border-width: 10px;
+}
+
+.cookies{
+    border: 2px solid rgb(163, 160, 160) ;
+    border-radius:20px;   
+    margin:5%;
+    padding:5px; 
+    border-width: 10px;
+    border-style:double
+}
+
+.mint{
+    border: 2px solid rgb(3, 202, 126); 
+    border-radius:20px;  
+    margin:5%;
+    padding:5px;
+    border-width: 10px;
+    border-style:double 
+}
+
+h1{
+     text-shadow: 2px 2px 5px rgb(162, 158, 159)
+}
