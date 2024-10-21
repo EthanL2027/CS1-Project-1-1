@@ -1,7 +1,7 @@
 
 /* General page styles */
 body{
-    background-color: rgba(38, 35, 35, 0.078);
+    background-color: #f8eee2;
 }
 .brown{
     border: 2px solid rgb(148, 66, 7);
@@ -10,6 +10,7 @@ body{
     padding:5px; 
     border-style:double;
     border-width: 10px;
+    box-shadow: 2px 7px 16px 26px rgba(234, 119, 5, 0.5);
 }
 
 .cookies{
@@ -18,7 +19,8 @@ body{
     margin:5%;
     padding:5px; 
     border-width: 10px;
-    border-style:double
+    border-style:double;
+    box-shadow: 2px 7px 13px 23px rgba(120, 117, 114, 0.4);
 }
 
 .mint{
@@ -27,9 +29,28 @@ body{
     margin:5%;
     padding:5px;
     border-width: 10px;
-    border-style:double 
+    border-style:double;
+    box-shadow: 2px 7px 13px 23px rgba(10, 252, 120, 0.4);
 }
 
 h1{
-     text-shadow: 2px 2px 5px rgb(162, 158, 159)
+     text-shadow: 2px 2px 5px rgb(162, 158, 159);
+     text-decoration:underline;
+}
+
+h2{
+    text-decoration:underline;
+}
+
+hr{
+    border: 2px solid 
+    border-radius:5px;  
+    margin:%;
+    padding:5px;
+    border-width:6px;
+    border-style:double 
+       
+}
+h3{
+    text-decoration:underline 
 }
